@@ -33,3 +33,17 @@ Durante o desenvolvimento foram utilizados conceitos como:
 O projeto foi desenvolvido como parte dos meus estudos em programação em C, com foco na aplicação prática de lógica de programação e manipulação de arquivos.
 
 A proposta foi criar um sistema simples capaz de armazenar informações de forma persistente e permitir a consulta posterior dos dados cadastrados.
+
+## Restrições do projeto
+
+Este projeto foi desenvolvido seguindo as regras definidas para a atividade acadêmica.
+
+Por isso, algumas decisões de implementação foram mantidas de forma mais simples e dentro do conteúdo permitido no exercício, utilizando principalmente recursos como:
+
+- vetores e strings;
+- estruturas condicionais;
+- estruturas de repetição;
+- manipulação de arquivos com `FILE`;
+- `fopen`, `fclose`, `fprintf`, `fscanf` e `fgetc`.
+
+O objetivo da atividade não era utilizar soluções mais avançadas da linguagem, mas aplicar corretamente os conceitos trabalhados durante a disciplina dentro das limitações propostas.
